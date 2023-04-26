@@ -1,0 +1,19 @@
+header {
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: cover;
+  }
+  
+    .logoP {
+    height: 50%;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+  }
+  .pareja {
+    height: 70%;
+    width: auto;
+  }
+  
